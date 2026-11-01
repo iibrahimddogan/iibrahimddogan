@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm İbrahim 👋
 
-<!--
-**iibrahimddogan/iibrahimddogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at **Karadeniz Technical University** (Trabzon, Türkiye), focused on **GPU computing, HPC, and edge AI**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Featured projects**
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Neural-Network-CUDA](https://github.com/iibrahimddogan/Neural-Network-CUDA) | CNN framework from scratch — custom GPU kernels, backpropagation, model serialization | C++ · CUDA · CMake |
+| [Neural-Boundary-2D](https://github.com/iibrahimddogan/Neural-Boundary-2D) | Interactive 2D training simulator with decision-boundary visualization | C++ · Qt |
+| [CUDA-Circuit](https://github.com/iibrahimddogan/CUDA-Circuit) | GPU-accelerated circuit simulator — nodal and sensitivity analysis | C++ · CUDA · Raylib |
+| [KampusKarne](https://github.com/ktu-software-engineering/kampus) | Anonymous university course & instructor review platform | Next.js · TypeScript · Supabase |
+
+**Toolbox**
+
+`C` `C++` `CUDA` `Python` `CMake` `Git` `Linux` `Docker` `NVIDIA Nsight` `Jetson` `ESP32`
+
+**Reach me**
+
+[Email](mailto:iibrahimddogan@proton.me) · [LinkedIn](https://linkedin.com/in/iibrahimddogan) · [KampusKarne](https://kampuskarne.com)
