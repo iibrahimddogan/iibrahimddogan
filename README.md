@@ -2,8 +2,14 @@
 
 Computer Engineering student at **Karadeniz Technical University** (Trabzon, Türkiye), focused on **GPU computing, HPC, and edge AI**.
 
+I like building AI systems from the metal up — custom CUDA kernels, neural-network frameworks, and on-device inference on embedded devices.
+
 ---
 
+**Currently**
+- Building a CNN framework from scratch in C++/CUDA (convolution, pooling, softmax/cross-entropy, backpropagation)
+- Deploying YOLOv8 on NVIDIA Jetson Orin Nano for on-device inference
+- Looking for a **2027 summer internship** in HPC / AI hardware / edge AI (Erasmus+)
 
 **Featured projects**
 
@@ -16,7 +22,7 @@ Computer Engineering student at **Karadeniz Technical University** (Trabzon, Tü
 
 **Toolbox**
 
-`C` `C++` `CUDA` `Python` `CMake` `Git` `Linux` `Docker` `NVIDIA Nsight` `Jetson` `ESP32`
+`C` `C++` `CUDA` `Python` `CMake` `Git` `Linux` `Docker` `NVIDIA Nsight` `Jetson`
 
 **Reach me**
 
